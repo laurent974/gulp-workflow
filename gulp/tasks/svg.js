@@ -8,13 +8,13 @@ const config = {
       maxHeight: 32
     },
     spacing: { // Add padding
-      padding: 10
+      padding: 0
     }
   },
   mode: {
-    symbol: {
+    symbol: { // Activate the «symbol» mode
       dest: './dist'
-    } // Activate the «symbol» mode
+    }
   }
 }
 
